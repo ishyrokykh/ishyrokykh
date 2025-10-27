@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ivan
+Hi! 👋 My name is Ivan
 =============================================================================================================================
 
 With 5 years of experience in web development with React, I bring a wealth of experience from diverse teams and collaboration models, including outsourcing, outstaffing and product-based approaches. My journey in web development has equipped me with the skills to deliver high-quality solutions, including developing components of large-scale projects from scratch and preparing MVPs for business client presentations.
