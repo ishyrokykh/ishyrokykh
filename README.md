@@ -12,11 +12,14 @@ Always learning, always building, always curious about what's next.
 </p>
 <a href="https://www.github.com/ishyrokykh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ishyrokykh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ishyrokykh"><img src="https://github-readme-stats.vercel.app/api?username=ishyrokykh&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ishyrokykh's GitHub stats" /></a>
+
+![](https://komarev.com/ghpvc/?username=ishyrokykh&style=for-the-badge&color=brightgreen)
 
 
 ### Socials
